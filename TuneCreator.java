@@ -7,7 +7,7 @@
  */
 public class TuneCreator
 {
-    // instance variables - replace the example below with your own
+    
     private MidiPlayer player;
 
 
@@ -16,9 +16,12 @@ public class TuneCreator
      */
     public TuneCreator()
     {
-        // initialise instance variables
-        player = new MidiPlayer();
+       player = new MidiPlayer();
     }
 
     
+    public void CreateAndPlay()
+    {
+        
+    }
 }
