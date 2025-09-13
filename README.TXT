@@ -32,7 +32,7 @@ this.noteName = noteName;
 this.duration = duration;
 }
 notes.add(new Note(noteName, duration));
-It went trhought this same order 3 times. When i was at the first addNote, it went to the second when after the first round and then the same again for when it reached the third one. 
+It went trhought this same order 3 times. When i was at the first addNote, it went to the second when after the first round and then the same again for when it reached the third one. After doint it more. it went into the note class.
 
 
 
